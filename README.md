@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sipho</h1>
 <h3 align="center">A passionate Applied Mathematician and Computer Science from South Africa</h3>
 
-- 🔭 I’m currently working on **Numerical Relativity project**
+- 🎓 I have successfully completed my **Masters in Applied Mathematics**
 
-- 🌱 I’m currently learning **React Native**
+- 💼 Working as a **Credit Risk and Decision Analyst**
+
+- 🔧 Extensively use **SAS, MSSQL, PowerBI, Excel, and Python**
+
+- 🤖 Currently studying **Reinforcement Learning**
 
 - 📫 How to reach me **siposenkosinkele@gmail.com**
 
